@@ -14,7 +14,7 @@
         ]]>
     </description>
     <fileset>
-        <files target="administrator/language/en-GB">
+        <files target="administrator/language/fr-FR">
             <filename>fr-FR.com_protostore.ini</filename>
             <filename>fr-FR.com_protostore.sys.ini</filename>
     </fileset>
