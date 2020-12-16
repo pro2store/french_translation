@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="file" method="upgrade" version="3.0">
+    <name>Pro2Store - fr-FR</name>
+    <version>1.0.0</version>
+    <creationDate>16/12/2020</creationDate>
+    <author>Pro2Store</author>
+    <authorEmail>info@pro2.store</authorEmail>
+    <authorUrl>https://www.pro2.store</authorUrl>
+    <copyright>Copyright (C) 2020 Pro2Store. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <description>
+        <![CDATA[This is the French language package, initially submitted by Philippe Marty and developed and maintained by the Pro2Store Community. To contribute, visit https://github.com/pro2store/french_translation and make a pull request.
+            Il s'agit du package en langue française, initialement soumis par Philippe Marty et développé et maintenu par la communauté Pro2Store. Pour contribuer, visitez https://github.com/pro2store/french_translation et faites une pull request.
+        ]]>
+    </description>
+    <fileset>
+        <files folder="admin" target="administrator/language/en-GB">
+            <filename>fr-FR.com_protostore.ini</filename>
+            <filename>fr-FR.com_protostore.sys.ini</filename>
+    </fileset>
+</extension>
