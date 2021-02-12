@@ -1,4 +1,4 @@
-# Official Fench Translation
+# Official French Translation
 The official French Translation for Pro2Store
 
 
